@@ -1,11 +1,9 @@
 ﻿//Criar uma lógica que soma todos os números de 1 até N, onde N é informado pelo usuário.
-
-using System;
-
-public class Class1
+namespace Atividade1;
+public class Program
 {
-	public Class1()
-	{
+    public static void Main()
+    {
         Console.WriteLine("===== Soma dos números =======");
         Console.WriteLine("Digite um número: ");
         int N = Convert.ToInt32(Console.ReadLine());

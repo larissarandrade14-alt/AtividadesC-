@@ -1,6 +1,6 @@
 
 //Criar uma lógica que recebe um número e exibe a tabuada dele de 1 a 10. 
-namespace Tabuada10;
+namespace Atividade3;
 public class Program
 {
 	public static void Main()

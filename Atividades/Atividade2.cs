@@ -1,6 +1,6 @@
 
 //Criar uma lógica que lê uma sequência de 10 números e mostra quantos deles são pares.
-namespace Ativ_pares;
+namespace Atividade2;
 public class Program
 {
     public static void Main()
